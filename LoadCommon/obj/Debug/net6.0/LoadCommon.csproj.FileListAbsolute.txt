@@ -1,0 +1,12 @@
+D:\Projects\POCs\LoadApi\LoadCommon\bin\Debug\net6.0\LoadCommon.deps.json
+D:\Projects\POCs\LoadApi\LoadCommon\bin\Debug\net6.0\LoadCommon.dll
+D:\Projects\POCs\LoadApi\LoadCommon\bin\Debug\net6.0\LoadCommon.pdb
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\LoadCommon.csproj.AssemblyReference.cache
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\LoadCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\LoadCommon.AssemblyInfoInputs.cache
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\LoadCommon.AssemblyInfo.cs
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\LoadCommon.csproj.CoreCompileInputs.cache
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\LoadCommon.dll
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\refint\LoadCommon.dll
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\LoadCommon.pdb
+D:\Projects\POCs\LoadApi\LoadCommon\obj\Debug\net6.0\ref\LoadCommon.dll

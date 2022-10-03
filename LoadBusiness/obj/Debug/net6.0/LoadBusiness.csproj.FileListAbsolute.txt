@@ -1,0 +1,12 @@
+D:\Projects\POCs\LoadApi\LoadBusiness\bin\Debug\net6.0\LoadBusiness.deps.json
+D:\Projects\POCs\LoadApi\LoadBusiness\bin\Debug\net6.0\LoadBusiness.dll
+D:\Projects\POCs\LoadApi\LoadBusiness\bin\Debug\net6.0\LoadBusiness.pdb
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\LoadBusiness.csproj.AssemblyReference.cache
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\LoadBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\LoadBusiness.AssemblyInfoInputs.cache
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\LoadBusiness.AssemblyInfo.cs
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\LoadBusiness.csproj.CoreCompileInputs.cache
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\LoadBusiness.dll
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\refint\LoadBusiness.dll
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\LoadBusiness.pdb
+D:\Projects\POCs\LoadApi\LoadBusiness\obj\Debug\net6.0\ref\LoadBusiness.dll

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LoadApi/1.0.0": {
+        "dependencies": {
+          "LoadBusiness": "1.0.0",
+          "LoadCommon": "1.0.0"
+        },
+        "runtime": {
+          "LoadApi.dll": {}
+        }
+      },
+      "LoadBusiness/1.0.0": {
+        "runtime": {
+          "LoadBusiness.dll": {}
+        }
+      },
+      "LoadCommon/1.0.0": {
+        "runtime": {
+          "LoadCommon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoadApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoadBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoadCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
